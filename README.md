@@ -38,6 +38,8 @@ You’re starting to get into the meat of HTML, learning how to format pages usi
     - In the second paragraph, briefly explain the different color methods. 
     - Add appropriate text for each second-level heading that appropriately summarizes each paragraph.
 
+0. In the Footer section, update YourName with your actual name, and the copyright year to the current year (if necessary).
+
 <br>
 
 ## Example Project
