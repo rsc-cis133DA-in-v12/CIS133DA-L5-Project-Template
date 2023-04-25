@@ -14,7 +14,7 @@ You’re starting to get into the meat of HTML, learning how to format pages usi
 
 ## Part 1: Create an Inline CSS Page
 1. Open the **template.html** file.
-2. Save the template.html file as a new file in your Lesson 5 course folder with the name: **inline_css.html**
+2. Save the template as `inline_css.html`. The file should be saved in the same folder as the template.html folder. This is the default folder where all GitHub classroom files are saved. 
 3. In the Head section, update the **multi-line comment** as needed to match the information for this lesson. 
 4. In the Head section, update the **metadata** with the following information:
     1. Update the page **title** to follow this format: **{FirstName}'s Inline CSS Page**
@@ -25,13 +25,14 @@ You’re starting to get into the meat of HTML, learning how to format pages usi
     > Use the best practices you learned in Lesson 4 about metadata to match the purpose of this page: to demonstrate different CSS styles.
     
 5. In the header section, update the **first-level heading** to read: **Applying Inline CSS**
-6. In the header section, add your **slogan paragraph** that you chose in the previous lesson.
+6. In the header section, add your **slogan** that you chose in lesson 3.
 7. In the header section, comment out the **navigation menu**.
 8. In the Main section, edit the placeholder content so that there are **two (2) paragraphs** with a **second level-heading** above each paragraph. Edit the placeholder text with the following information:
     1. In the first paragraph, briefly explain the difference between the generic font families.
-    2. In the second paragraph, briefly explain the different color methods. 
+    2. In the second paragraph, briefly explain the different ways that you can indicate color on a web page or in text. 
     3. Add appropriate text for each second-level heading that appropriately summarizes each paragraph.
 9. In the Footer section, update YourName with your actual name, and the copyright year to the current year (if necessary).
+10. **Save** the file and apply a **Commit** that says, `Updated content.`
 
 <br>
 
@@ -73,7 +74,8 @@ There are several steps to submit your project. You will be using the Pull Reque
 
    > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
 1. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
-2. Verify that all files appear on GitHub.
+2. **Sync** the changes and apply a **Commit**.
+3. Verify that all files appear on GitHub.
 
    > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
 3. Submit the project through **GitHub** by opening the Pull Request that was created for you when you accepted the assignment invitation. Use the **Comment** box to let your instructor know that the assignment is complete.
