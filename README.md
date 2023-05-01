@@ -12,6 +12,10 @@ You’re starting to get into the meat of HTML, learning how to format pages usi
 
 <br>
 
+***
+Beginning with this lesson, you will no longer be given specific points at which to save, sync, and apply commits to your work. It is now up to you to do this regularly throughout your project at the points that you determine. You will also need to write appropriate commit messages. If you are unsure about this, contact your Instructor.
+***
+
 ## Part 1: Create an Inline CSS Page
 1. Open the **template.html** file.
 2. Save the template as `inline_css.html`. The file should be saved in the same folder as the template.html folder. This is the default folder where all GitHub classroom files are saved. 
@@ -32,7 +36,9 @@ You’re starting to get into the meat of HTML, learning how to format pages usi
     2. In the second paragraph, briefly explain the different ways that you can indicate color on a web page or in text. 
     3. Add appropriate text for each second-level heading that appropriately summarizes each paragraph.
 9. In the Footer section, update YourName with your actual name, and the copyright year to the current year (if necessary).
-10. **Save** the file and apply a **Commit** that says, `Updated content.`
+
+***Have you saved and synced your work lately? Now would be a good time to do so!***
+
 
 <br>
 
@@ -73,8 +79,8 @@ Apply CSS directly to the appropriate HTML element to complete the following ste
 Once you have completed your project, you need to let your instructor know that it is ready to be graded. This is done by submitting the Repo URL to the assignment in RioLearn.
 
    > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
-1. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
-2. **Sync** the changes and apply a **Commit**.
+1. Review your work and make any necessary updates. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
+2. **Sync** the changes and apply a final **Commit** that says: `Completed final review and updates before submission.`
 3. Verify that all files appear on GitHub.
 
    > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
