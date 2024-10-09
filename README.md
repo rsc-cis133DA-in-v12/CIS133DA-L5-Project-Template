@@ -18,7 +18,7 @@ Beginning with this lesson, you will no longer be given specific points at which
 
 ## Part 1: Create an Inline CSS Page
 1. Open the **template.html** file.
-2. Save the template as `inline_css.html`. The file should be saved in the same folder as the template.html folder. This is the default folder where all GitHub classroom files are saved. 
+2. Copy the template.html file and rename the copied file as `inline_css.html`. The file should be in the same folder as the template.html folder. 
 3. In the Head section, update the **multi-line comment** as needed to match the information for this lesson. 
 4. In the Head section, update the **metadata** with the following information:
     1. Update the page **title** to follow this format: **{FirstName}'s Inline CSS Page**
@@ -29,8 +29,8 @@ Beginning with this lesson, you will no longer be given specific points at which
     > Use the best practices you learned in Lesson 4 about metadata to match the purpose of this page: to demonstrate different CSS styles.
     
 5. In the header section, update the **first-level heading** to read: **Applying Inline CSS**
-6. In the header section, add your **slogan** that you chose in lesson 3.
-7. In the header section, comment out the **navigation menu**.
+6. In the header section, add your **Inspirational Quote** that you chose in lesson 4.
+7. In the header section, comment out the **NAV element**.
 8. In the Main section, edit the placeholder content so that there are **two (2) paragraphs** with a **second level-heading** above each paragraph. Edit the placeholder text with the following information:
     1. In the first paragraph, briefly explain the difference between the generic font families.
     2. In the second paragraph, briefly explain the different ways that you can indicate color on a web page or in text. 
@@ -56,15 +56,15 @@ Apply CSS directly to the appropriate HTML element to complete the following ste
     2. Change the font size using an absolute value.
     3. Apply a family of fonts.
 3. Add an **HTML comment** before the first-level heading to explain what would happen if the first font listed is not available to the end user, using your selected fonts as a guide.
-4. Modify the font weight of the **slogan paragraph** within the page header to make it bold in appearance.
+4. Modify the font weight of the **inspirational quote paragraph** within the page header to make it bold in appearance.
 5. Add an **HTML comment** before the slogan paragraph to identify all three types of values that can be used to define a font-weight property.
 6. For each of the **second-level headings**:
     1. Apply a color of your choosing to the first heading using the color names method.
     2. Apply a color of your choosing to the second heading using the RGB method.
-7. For the first **paragraph** within the main section, use the font shorthand property to:
+7. For the first **paragraph** within the main section, use the **font shorthand** property to:
     1. Increase the font size using a relative value.
     2. Apply a set of sans-serif styled fonts.
-8. For the second **paragraph** within the main section, use the font shorthand property to:
+8. For the second **paragraph** within the main section, use the **font shorthand** property to:
     1. Apply a font style.
     2. Increase the font size by applying a value of the length in pixels.
     3. Apply a set of monospace styled fonts.
